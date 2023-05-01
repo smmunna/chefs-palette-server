@@ -2,7 +2,7 @@ const router = require('express').Router()
 const chefs = require('../chefsData/chefdata.json')
 
 router.get('/all',(req,res)=>{
-    res.send(chefs);
+    res.send(chefs)
 })
 
 // Not found Routes;
