@@ -9,6 +9,7 @@ app.use(cors())
 // Using the router;
 app.use('/chefs',chefRouter)
 
+// Universal route for server
 app.get('/', (req, res) => {
   res.send('Chefs Palette server is successfully running...')
 })
