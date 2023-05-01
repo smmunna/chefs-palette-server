@@ -2,7 +2,11 @@ const router = require('express').Router()
 const chefs = require('../chefsData/chefdata.json')
 
 
-// Getting individual chef's
+// Getting individual chef's by id;
+router.get('/:id',(req,res)=>{
+    const id = req.params.id
+    res.send(id)
+})
 
 
 // Getting the all chef's;
