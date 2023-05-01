@@ -3,7 +3,7 @@ const chefs = require('../chefsData/chefdata.json')
 
 
 // Getting individual chef's by id;
-router.get('/:id',(req,res)=>{
+router.get('/user/:id',(req,res)=>{
     const id = req.params.id
     const singleChef = chefs.find(chef=>chef.id==id)
     res.send(singleChef)
