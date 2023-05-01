@@ -7,13 +7,13 @@ const chefRouter = require('./router/chefRouter')
 app.use(cors())
 
 // Using the router;
-app.use('/chefs',chefRouter)
+app.use('/chefs', chefRouter)
 
 // Universal route for server
 app.get('/', (req, res) => {
-  res.send('Chefs Palette server is successfully running...')
+    res.send('Chefs Palette server is successfully running...')
 })
 
 app.listen(port, () => {
-  console.log(`Chef's Palette successfully running at PORT Number ${port}`)
+    console.log(`Chef's Palette successfully running at PORT Number ${port}`)
 })
