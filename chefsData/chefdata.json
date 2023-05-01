@@ -2,7 +2,7 @@
     {
         "id": 5001,
         "name": "John Smith",
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
         "bio": "John Smith is a passionate chef with over 10 years of experience in the culinary industry.",
         "likes": 1000,
         "recipes": [
@@ -51,7 +51,7 @@
     {
         "id": 5002,
         "name": "Mary Johnson",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg",
         "bio": "Mary Johnson is a professional chef who has been working in the food industry for over 15 years.",
         "likes": 1200,
         "recipes": [
@@ -101,7 +101,7 @@
     {
         "id": 5003,
         "name": "Mary Smith",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=996&t=st=1682963003~exp=1682963603~hmac=db601203975b6f7877a35b8b4bf6a2e3bcc4a0ef9acfee2d48e49b287310e1f7",
         "bio": "Mary Smith is a highly skilled chef with more than 15 years of experience in the culinary industry.",
         "likes": 1500,
         "recipes": [
@@ -150,7 +150,7 @@
     {
         "id": 5004,
         "name": "Tom Adams",
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=996&t=st=1682963064~exp=1682963664~hmac=ce8929c1e6ad1cc90bd5cfbad38d8d1ef43ee6a78d5cc840d9654246c9065aa4",
         "bio": "Tom Adams is a classically trained chef with a passion for creating unique and innovative dishes. He has over 20 years of experience in the restaurant industry and has won multiple awards for his culinary creations.",
         "likes": 1800,
         "recipes": [
@@ -202,7 +202,7 @@
     {
         "id": 5005,
         "name": "Tom Jackson",
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=740&t=st=1682963129~exp=1682963729~hmac=34b71d918fc60b19cce1a099ca02324b15e416a8caf289b3f7aed3a45e8cd1ab",
         "bio": "Tom Jackson is an award-winning chef with a passion for creating unique and delicious dishes. With over 20 years of experience in the culinary industry, he has developed a keen sense of taste and an eye for presentation.",
         "likes": 2000,
         "recipes": [
@@ -250,7 +250,7 @@
     {
         "id": 5006,
         "name": "David Lee",
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://img.freepik.com/free-photo/female-chef-chopping-vegetables-kitchen_23-2148763134.jpg?w=900&t=st=1682963223~exp=1682963823~hmac=a1d5eb9a023d51fc8807fc1dc510c6e58c642d7b6baac4152b249985eefcff3c",
         "bio": "David Lee is a creative chef with a passion for fusion cuisine. He has been working in the culinary industry for over 12 years.",
         "likes": 800,
         "recipes": [
