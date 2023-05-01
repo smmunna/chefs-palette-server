@@ -1,0 +1,312 @@
+[
+    {
+        "id": 5001,
+        "name": "John Smith",
+        "picture": "https://example.com/chef1.jpg",
+        "bio": "John Smith is a passionate chef with over 10 years of experience in the culinary industry.",
+        "likes": 1000,
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti until al dente. 2. Cook bacon until crispy. 3. Beat eggs and mix with parmesan cheese and black pepper. 4. Combine spaghetti, bacon, and egg mixture. Serve hot.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef",
+                    "sour cream",
+                    "onion",
+                    "mushrooms",
+                    "egg noodles"
+                ],
+                "method": "1. Cook egg noodles until al dente. 2. Cook beef with onion and mushrooms. 3. Add sour cream to the beef mixture. 4. Serve hot over egg noodles.",
+                "rating": 4.0,
+                "favorite": true
+            },
+            {
+                "name": "Chicken Alfredo",
+                "ingredients": [
+                    "chicken",
+                    "heavy cream",
+                    "butter",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "method": "1. Cook chicken until golden brown. 2. Cook garlic in butter. 3. Add heavy cream and parmesan cheese to the garlic mixture. 4. Combine chicken and sauce. Serve hot over pasta.",
+                "rating": 4.8,
+                "favorite": false
+            }
+        ],
+        "years_of_experience": 10
+    },
+    {
+        "id": 5002,
+        "name": "Mary Johnson",
+        "picture": "https://example.com/chef2.jpg",
+        "bio": "Mary Johnson is a professional chef who has been working in the food industry for over 15 years.",
+        "likes": 1200,
+        "recipes": [
+            {
+                "name": "Grilled Salmon",
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "lemon juice",
+                    "garlic",
+                    "salt"
+                ],
+                "method": "1. Preheat grill to high heat. 2. Brush salmon fillets with olive oil and lemon juice. 3. Season with garlic and salt. 4. Grill salmon for 6-8 minutes per side. Serve hot.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "name": "Chicken Alfredo",
+                "ingredients": [
+                    "chicken",
+                    "heavy cream",
+                    "butter",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "method": "1. Cook chicken until golden brown. 2. Cook garlic in butter. 3. Add heavy cream and parmesan cheese to the garlic mixture. 4. Combine chicken and sauce. Serve hot over pasta.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Chicken Pasta",
+                "ingredients": [
+                    "chicken breast",
+                    "penne pasta",
+                    "basil pesto",
+                    "cherry tomatoes",
+                    "garlic",
+                    "olive oil"
+                ],
+                "method": "1. Cook pasta according to package directions. 2. Season chicken with salt and pepper and cook in a pan with olive oil. 3. Add cherry tomatoes and garlic and cook until chicken is no longer pink. 4. Add basil pesto and stir to coat chicken and tomatoes. 5. Add cooked pasta to the pan and stir until fully coated. Serve hot.",
+                "rating": 4.5,
+                "favorite": true
+            }
+        ],
+        "years_of_experience": 5
+    },
+    {
+        "id": 5003,
+        "name": "Mary Smith",
+        "picture": "https://example.com/chef2.jpg",
+        "bio": "Mary Smith is a highly skilled chef with more than 15 years of experience in the culinary industry.",
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Grilled Salmon",
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "lemon juice",
+                    "garlic",
+                    "salt"
+                ],
+                "method": "1. Preheat grill to high heat. 2. Brush salmon fillets with olive oil and lemon juice. 3. Season with garlic and salt. 4. Grill salmon for 6-8 minutes per side. Serve hot.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "name": "Beef Tacos",
+                "ingredients": [
+                    "ground beef",
+                    "taco seasoning",
+                    "taco shells",
+                    "lettuce",
+                    "shredded cheese"
+                ],
+                "method": "1. Brown ground beef in a pan. 2. Add taco seasoning and cook for an additional 5 minutes. 3. Heat taco shells in the oven or microwave. 4. Fill shells with beef mixture, lettuce, and shredded cheese. Serve hot.",
+                "rating": 4.5,
+                "favorite": true
+            },
+            {
+                "name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "fresh mozzarella cheese",
+                    "basil leaves",
+                    "olive oil"
+                ],
+                "method": "1. Preheat oven to 450°F. 2. Stretch pizza dough to desired size. 3. Spread tomato sauce on dough. 4. Top with sliced fresh mozzarella cheese. 5. Bake pizza for 10-12 minutes or until crust is golden brown. 6. Remove from oven and top with fresh basil leaves and a drizzle of olive oil. Slice and serve.",
+                "rating": 4.5,
+                "favorite": true
+            }
+        ],
+        "years_of_experience": 8
+    },
+    {
+        "id": 5004,
+        "name": "Tom Adams",
+        "picture": "https://example.com/chef4.jpg",
+        "bio": "Tom Adams is a classically trained chef with a passion for creating unique and innovative dishes. He has over 20 years of experience in the restaurant industry and has won multiple awards for his culinary creations.",
+        "likes": 1800,
+        "recipes": [
+            {
+                "name": "Lobster Bisque",
+                "ingredients": [
+                    "lobster meat",
+                    "heavy cream",
+                    "butter",
+                    "shallots",
+                    "garlic",
+                    "white wine",
+                    "chicken stock"
+                ],
+                "method": "1. Sauté shallots and garlic in butter until soft. 2. Add lobster meat and cook until browned. 3. Deglaze with white wine and reduce. 4. Add chicken stock and simmer for 20 minutes. 5. Blend the soup until smooth. 6. Add heavy cream and simmer until heated through. Serve hot.",
+                "rating": 4.9,
+                "favorite": true
+            },
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef tenderloin",
+                    "puff pastry",
+                    "mushrooms",
+                    "shallots",
+                    "prosciutto",
+                    "egg",
+                    "olive oil"
+                ],
+                "method": "1. Season the beef tenderloin with salt and pepper. 2. Sear the beef in a pan with olive oil until browned on all sides. 3. Sauté mushrooms and shallots in the same pan. 4. Lay out prosciutto slices and place the beef on top. 5. Add the mushroom mixture. 6. Wrap the beef and mushrooms in puff pastry. 7. Brush with egg wash. 8. Bake in the oven at 400°F for 25 minutes. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Crème Brûlée",
+                "ingredients": [
+                    "heavy cream",
+                    "sugar",
+                    "egg yolks",
+                    "vanilla extract"
+                ],
+                "method": "1. Heat heavy cream and sugar in a saucepan until sugar is dissolved. 2. Beat egg yolks and vanilla extract together in a bowl. 3. Slowly add the hot cream mixture to the egg mixture, whisking constantly. 4. Pour the mixture into ramekins. 5. Bake in the oven at 325°F for 30 minutes. 6. Chill in the refrigerator for at least 2 hours. 7. Sprinkle sugar on top and use a torch to caramelize the sugar. Serve cold.",
+                "rating": 4.5,
+                "favorite": true
+            }
+        ],
+        "years_of_experience": 20
+    },
+    {
+        "id": 5005,
+        "name": "Tom Jackson",
+        "picture": "https://example.com/chef3.jpg",
+        "bio": "Tom Jackson is an award-winning chef with a passion for creating unique and delicious dishes. With over 20 years of experience in the culinary industry, he has developed a keen sense of taste and an eye for presentation.",
+        "likes": 2000,
+        "recipes": [
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef tenderloin",
+                    "puff pastry",
+                    "mushrooms",
+                    "shallots",
+                    "prosciutto"
+                ],
+                "method": "1. Sear beef tenderloin in a hot pan. 2. Sautee mushrooms and shallots. 3. Layer prosciutto on top of the puff pastry. 4. Add mushroom mixture and beef tenderloin. 5. Bake at 400°F for 30 minutes. Serve hot.",
+                "rating": 4.9,
+                "favorite": true
+            },
+            {
+                "name": "Lobster Bisque",
+                "ingredients": [
+                    "lobster",
+                    "heavy cream",
+                    "onion",
+                    "garlic",
+                    "tomato paste"
+                ],
+                "method": "1. Cook onion and garlic until soft. 2. Add tomato paste and cook for 2 minutes. 3. Add lobster and heavy cream. 4. Simmer for 15 minutes. 5. Puree the mixture in a blender. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Rack of Lamb",
+                "ingredients": [
+                    "lamb",
+                    "olive oil",
+                    "garlic",
+                    "rosemary",
+                    "bread crumbs"
+                ],
+                "method": "1. Season lamb with salt, pepper, garlic, and rosemary. 2. Coat lamb with bread crumbs. 3. Sear lamb in a hot pan. 4. Bake at 375°F for 15-20 minutes. Serve hot.",
+                "rating": 4.6,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 5006,
+        "name": "David Lee",
+        "picture": "https://example.com/chef3.jpg",
+        "bio": "David Lee is a creative chef with a passion for fusion cuisine. He has been working in the culinary industry for over 12 years.",
+        "likes": 800,
+        "recipes": [
+            {
+                "name": "Korean Fried Chicken",
+                "ingredients": [
+                    "chicken wings",
+                    "flour",
+                    "cornstarch",
+                    "salt",
+                    "vegetable oil",
+                    "gochujang",
+                    "honey",
+                    "soy sauce",
+                    "rice vinegar",
+                    "garlic",
+                    "ginger"
+                ],
+                "method": "1. Mix flour, cornstarch, and salt in a bowl. 2. Coat chicken wings with flour mixture. 3. Fry chicken wings in vegetable oil until crispy. 4. Mix gochujang, honey, soy sauce, rice vinegar, garlic, and ginger in a bowl. 5. Toss fried chicken wings in sauce. Serve hot.",
+                "rating": 4.9,
+                "favorite": true
+            },
+            {
+                "name": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "rice vinegar",
+                    "sugar",
+                    "salt",
+                    "nori",
+                    "avocado",
+                    "cucumber",
+                    "carrot",
+                    "crab meat"
+                ],
+                "method": "1. Cook sushi rice and mix with rice vinegar, sugar, and salt. 2. Lay nori sheet on sushi mat. 3. Spread sushi rice on nori sheet. 4. Place avocado, cucumber, carrot, and crab meat on top of sushi rice. 5. Roll sushi tightly using sushi mat. 6. Slice sushi roll into bite-size pieces. Serve with soy sauce and wasabi.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Beef Bulgogi",
+                "ingredients": [
+                    "beef sirloin",
+                    "soy sauce",
+                    "brown sugar",
+                    "sesame oil",
+                    "garlic",
+                    "ginger",
+                    "onion",
+                    "green onions"
+                ],
+                "method": "1. Thinly slice beef sirloin. 2. Mix soy sauce, brown sugar, sesame oil, garlic, and ginger in a bowl. 3. Marinate beef slices in sauce for 30 minutes. 4. Heat oil in a pan and stir-fry beef slices until cooked. 5. Add sliced onion and green onions. Stir-fry for 1-2 minutes. Serve hot with rice.",
+                "rating": 4.5,
+                "favorite": true
+            }
+        ],
+        "years_of_experience": 12
+    }
+]
