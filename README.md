@@ -5,6 +5,6 @@
  DATE: 01 MAY 2023, 11.00 PM
 
  Api: 
- 1. https://chefs-palette-server-odpz22j60-smmunna.vercel.app/
- 2. https://chefs-palette-server-odpz22j60-smmunna.vercel.app/chefs/all
- 3. https://chefs-palette-server-odpz22j60-smmunna.vercel.app/chefs/chef/5001
+ 1. https://chefs-palette-server.vercel.app/chefs/
+ 2. https://chefs-palette-server.vercel.app/chefs/all
+ 3. https://chefs-palette-server.vercel.app/chefs/chef/5001

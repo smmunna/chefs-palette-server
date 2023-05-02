@@ -202,7 +202,7 @@
     {
         "id": 5005,
         "name": "Tom Jackson",
-        "picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=740&t=st=1682963129~exp=1682963729~hmac=34b71d918fc60b19cce1a099ca02324b15e416a8caf289b3f7aed3a45e8cd1ab",
+        "picture": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bio": "Tom Jackson is an award-winning chef with a passion for creating unique and delicious dishes. With over 20 years of experience in the culinary industry, he has developed a keen sense of taste and an eye for presentation.",
         "likes": 2000,
         "recipes": [
@@ -250,7 +250,7 @@
     {
         "id": 5006,
         "name": "David Lee",
-        "picture": "https://img.freepik.com/free-photo/female-chef-chopping-vegetables-kitchen_23-2148763134.jpg?w=900&t=st=1682963223~exp=1682963823~hmac=a1d5eb9a023d51fc8807fc1dc510c6e58c642d7b6baac4152b249985eefcff3c",
+        "picture": "https://images.pexels.com/photos/3785696/pexels-photo-3785696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bio": "David Lee is a creative chef with a passion for fusion cuisine. He has been working in the culinary industry for over 12 years.",
         "likes": 800,
         "recipes": [
