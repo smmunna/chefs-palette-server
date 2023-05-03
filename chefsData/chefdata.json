@@ -42,7 +42,7 @@
                     "parmesan cheese"
                 ],
                 "method": "1. Cook chicken until golden brown. 2. Cook garlic in butter. 3. Add heavy cream and parmesan cheese to the garlic mixture. 4. Combine chicken and sauce. Serve hot over pasta.",
-                "rating": 4.8,
+                "rating": 5,
                 "favorite": false
             }
         ],
@@ -65,7 +65,7 @@
                     "salt"
                 ],
                 "method": "1. Preheat grill to high heat. 2. Brush salmon fillets with olive oil and lemon juice. 3. Season with garlic and salt. 4. Grill salmon for 6-8 minutes per side. Serve hot.",
-                "rating": 4.2,
+                "rating": 4,
                 "favorite": false
             },
             {
@@ -78,7 +78,7 @@
                     "parmesan cheese"
                 ],
                 "method": "1. Cook chicken until golden brown. 2. Cook garlic in butter. 3. Add heavy cream and parmesan cheese to the garlic mixture. 4. Combine chicken and sauce. Serve hot over pasta.",
-                "rating": 4.8,
+                "rating": 5,
                 "favorite": false
             },
             {
@@ -115,7 +115,7 @@
                     "salt"
                 ],
                 "method": "1. Preheat grill to high heat. 2. Brush salmon fillets with olive oil and lemon juice. 3. Season with garlic and salt. 4. Grill salmon for 6-8 minutes per side. Serve hot.",
-                "rating": 4.2,
+                "rating": 4,
                 "favorite": false
             },
             {
@@ -166,7 +166,7 @@
                     "chicken stock"
                 ],
                 "method": "1. Sauté shallots and garlic in butter until soft. 2. Add lobster meat and cook until browned. 3. Deglaze with white wine and reduce. 4. Add chicken stock and simmer for 20 minutes. 5. Blend the soup until smooth. 6. Add heavy cream and simmer until heated through. Serve hot.",
-                "rating": 4.9,
+                "rating": 4,
                 "favorite": true
             },
             {
@@ -181,7 +181,7 @@
                     "olive oil"
                 ],
                 "method": "1. Season the beef tenderloin with salt and pepper. 2. Sear the beef in a pan with olive oil until browned on all sides. 3. Sauté mushrooms and shallots in the same pan. 4. Lay out prosciutto slices and place the beef on top. 5. Add the mushroom mixture. 6. Wrap the beef and mushrooms in puff pastry. 7. Brush with egg wash. 8. Bake in the oven at 400°F for 25 minutes. Serve hot.",
-                "rating": 4.7,
+                "rating": 4.5,
                 "favorite": false
             },
             {
@@ -203,7 +203,7 @@
         "id": 5005,
         "name": "Tom Jackson",
         "picture": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "bio": "Tom Jackson is an award-winning chef with a passion for creating unique and delicious dishes. With over 20 years of experience in the culinary industry, he has developed a keen sense of taste and an eye for presentation.",
+        "bio": "Tom Jackson is an award-winning chef with a passion for creating unique and delicious dishes. With over 4 years of experience in the culinary industry, he has developed a keen sense of taste and an eye for presentation.",
         "likes": 2000,
         "recipes": [
             {
@@ -216,7 +216,7 @@
                     "prosciutto"
                 ],
                 "method": "1. Sear beef tenderloin in a hot pan. 2. Sautee mushrooms and shallots. 3. Layer prosciutto on top of the puff pastry. 4. Add mushroom mixture and beef tenderloin. 5. Bake at 400°F for 30 minutes. Serve hot.",
-                "rating": 4.9,
+                "rating": 3,
                 "favorite": true
             },
             {
@@ -229,7 +229,7 @@
                     "tomato paste"
                 ],
                 "method": "1. Cook onion and garlic until soft. 2. Add tomato paste and cook for 2 minutes. 3. Add lobster and heavy cream. 4. Simmer for 15 minutes. 5. Puree the mixture in a blender. Serve hot.",
-                "rating": 4.7,
+                "rating": 4.5,
                 "favorite": false
             },
             {
@@ -242,7 +242,7 @@
                     "bread crumbs"
                 ],
                 "method": "1. Season lamb with salt, pepper, garlic, and rosemary. 2. Coat lamb with bread crumbs. 3. Sear lamb in a hot pan. 4. Bake at 375°F for 15-20 minutes. Serve hot.",
-                "rating": 4.6,
+                "rating": 5,
                 "favorite": false
             }
         ],
@@ -271,7 +271,7 @@
                     "ginger"
                 ],
                 "method": "1. Mix flour, cornstarch, and salt in a bowl. 2. Coat chicken wings with flour mixture. 3. Fry chicken wings in vegetable oil until crispy. 4. Mix gochujang, honey, soy sauce, rice vinegar, garlic, and ginger in a bowl. 5. Toss fried chicken wings in sauce. Serve hot.",
-                "rating": 4.9,
+                "rating": 5,
                 "favorite": true
             },
             {
@@ -288,7 +288,7 @@
                     "crab meat"
                 ],
                 "method": "1. Cook sushi rice and mix with rice vinegar, sugar, and salt. 2. Lay nori sheet on sushi mat. 3. Spread sushi rice on nori sheet. 4. Place avocado, cucumber, carrot, and crab meat on top of sushi rice. 5. Roll sushi tightly using sushi mat. 6. Slice sushi roll into bite-size pieces. Serve with soy sauce and wasabi.",
-                "rating": 4.7,
+                "rating": 3.5,
                 "favorite": false
             },
             {
@@ -304,7 +304,7 @@
                     "green onions"
                 ],
                 "method": "1. Thinly slice beef sirloin. 2. Mix soy sauce, brown sugar, sesame oil, garlic, and ginger in a bowl. 3. Marinate beef slices in sauce for 30 minutes. 4. Heat oil in a pan and stir-fry beef slices until cooked. 5. Add sliced onion and green onions. Stir-fry for 1-2 minutes. Serve hot with rice.",
-                "rating": 4.5,
+                "rating": 4,
                 "favorite": true
             }
         ],
